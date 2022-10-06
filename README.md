@@ -1,4 +1,4 @@
-Hi 👋 My name is Svampen
+Hi 👋 My name is DanmarksBedsteKode
 ========================
 
 Everything
@@ -6,13 +6,9 @@ Everything
 
 Yea i do it alot
 
-* 🌍  I'm based in Not new york
+* 🌍  I'm based in Svampen Jylland
 * 🖥️  See my portfolio at [what is this?](http://drikbajer.com)
 * ✉️  You can contact me at [mathias@drikbajer.com](mailto:mathias@drikbajer.com)
-* 🚀  I'm currently working on [this](http://drikbajer.com)
-* 🧠  I'm learning Life?
-* 🤝  I'm open to collaborating on Drinking
-* ⚡  idk
 
 <a href="https://www.twitter.com/ingenting" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ingenting?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
